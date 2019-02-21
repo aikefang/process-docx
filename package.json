@@ -1,0 +1,21 @@
+{
+  "name": "process-docx",
+  "version": "1.0.2",
+  "description": "docx to html",
+  "main": "index.js",
+  "author": {
+    "name": "kyle",
+    "email": "zhaokai.zhuang@gmail.com",
+    "url": "https://www.webascii.cn"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fnv-plus": "^1.2.12",
+    "mammoth": "^1.4.7",
+    "node-uuid": "^1.4.8",
+    "qiniu": "^7.2.1",
+    "qiniu-tool": "^1.1.4"
+  },
+  "repository": "https://github.com/aikefang/process-docx.git",
+  "devDependencies": {}
+}
